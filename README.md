@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello I'm Fortunato
+I'm a Computer Science student at Università della Calabria.
+My long and tortuous journey in the IT field begand back in highschool when I chose to become a programmer.
+Actually one of my biggest dream has always been to become a comic artist, who knows, maybe one day...
+Either ways, now my language of choiche is JAVA (not JavaScript, I dont like him, he's kind of a weird guy), but you know, a language is just a tool and I'm pretty much open to anything!
+Thus in my lifetime I had the chance to get in touch with Java, Python, C++ and C; as well as HTML, CSS, and all the stuff related to Angular and Spring such as Ajax and more. (I can make websites YAY!! Not this one, I'm way too lazy).
+Currently working on AI Projects and looking for more experiences. If you want to get in touch with me just send me a Mail, I'll get back to you ASAP!😊
+
 
 <!--
 **Tulorolo/Tulorolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
